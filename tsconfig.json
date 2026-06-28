@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",                          /* 最新のJavaScript形式に出力 */
+    "module": "NodeNext",                        /* 拡張子やモジュール解決を最新のNodeに合わせる */
+    "moduleResolution": "NodeNext",
+    "outDir": "./dist",                          /* ビルド後のJavaScriptファイルの出力先 */
+    "rootDir": "./src",                          /* ソースコードの場所 */
+    "strict": true,                              /* 厳格な型チェックを有効化 */
+    "skipLibCheck": true
+  }
+}
